@@ -1,4 +1,4 @@
-# AWSCognito-Docs
+# AWSCognito-Docs.
 
 Concept of Pool
 
