@@ -36,21 +36,3 @@ Function available for UserPool and
 
 https://docs.aws.amazon.com/cognito/latest/developerguide/using-amazon-cognito-user-identity-pools-javascript-examples.html
 https://serverless-stack.com/chapters/cognito-user-pool-vs-identity-pool.html
-
-先生
-                お疲れ様です。
-                ナッタワットです。
-                
-                はい、わたしは電車の中が言葉を覚えています。
-                今一生懸命頑張っています。
-                事務所は皆さんがエンジンですから。きびしいではありません。
-                例えスーツとネックタイトは入れませんです。
-                ワイシャツもいらないんです。
-                でもパソコンはとても不便利です。
-                パソコンはMacBookですからわたしはそれで使ったことがないですが
-                Internetも大変です。Securityの理由、Gmailと色々なSite見えません。
-                しかし皆は優しくてfriendlyです。
-                そういえば入社員が行って忙しくなりますか。先生。
-
-                宜しくお願いします。
-                ナッタワット
