@@ -36,3 +36,5 @@ Function available for UserPool and
 
 https://docs.aws.amazon.com/cognito/latest/developerguide/using-amazon-cognito-user-identity-pools-javascript-examples.html
 https://serverless-stack.com/chapters/cognito-user-pool-vs-identity-pool.html
+
+https://app.swaggerhub.com/verify?token=eyJUb2tlblR5cGUiOiJWRVJJRlkiLCJVc2VyRW1haWwiOiJrbGFrcGV0Y2gubmF0dGhhd2F0QHllcy5udHRjb20ubmUuanAiLCJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlNjAxMzU3Ni00MGU0LTRmNjQtYjU2Ni0wODgyNmYxNmFhNTAiLCJpYXQiOjE1Mjg0NDUxNjcsImV4cCI6MTUyOTA0OTk2N30.WWRzuT07aAkdxMg4oSiMFxa14DWysZBBWgPa9PH2OiRlowlJwDoOPInwEZUf7aBaKvl6IuHRBK6usYUkpHB3rQ
